@@ -1,0 +1,14 @@
+C:\Users\Nauka\source\repos\Polynomial_Functions\Polynomial_Functions\bin\Debug\Polynomial_Functions.exe.config
+C:\Users\Nauka\source\repos\Polynomial_Functions\Polynomial_Functions\bin\Debug\Polynomial_Functions.exe
+C:\Users\Nauka\source\repos\Polynomial_Functions\Polynomial_Functions\bin\Debug\Polynomial_Functions.pdb
+C:\Users\Nauka\source\repos\Polynomial_Functions\Polynomial_Functions\obj\Debug\Polynomial_Functions.csprojAssemblyReference.cache
+C:\Users\Nauka\source\repos\Polynomial_Functions\Polynomial_Functions\obj\Debug\Polynomial_Functions.csproj.CoreCompileInputs.cache
+C:\Users\Nauka\source\repos\Polynomial_Functions\Polynomial_Functions\obj\Debug\Polynomial_Functions.exe
+C:\Users\Nauka\source\repos\Polynomial_Functions\Polynomial_Functions\obj\Debug\Polynomial_Functions.pdb
+C:\Users\Chitsungo\Downloads\Polynomial-master\Polynomial-master\Polynomial_Functions\bin\Debug\Polynomial_Functions.exe.config
+C:\Users\Chitsungo\Downloads\Polynomial-master\Polynomial-master\Polynomial_Functions\bin\Debug\Polynomial_Functions.exe
+C:\Users\Chitsungo\Downloads\Polynomial-master\Polynomial-master\Polynomial_Functions\bin\Debug\Polynomial_Functions.pdb
+C:\Users\Chitsungo\Downloads\Polynomial-master\Polynomial-master\Polynomial_Functions\obj\Debug\Polynomial_Functions.csprojAssemblyReference.cache
+C:\Users\Chitsungo\Downloads\Polynomial-master\Polynomial-master\Polynomial_Functions\obj\Debug\Polynomial_Functions.csproj.CoreCompileInputs.cache
+C:\Users\Chitsungo\Downloads\Polynomial-master\Polynomial-master\Polynomial_Functions\obj\Debug\Polynomial_Functions.exe
+C:\Users\Chitsungo\Downloads\Polynomial-master\Polynomial-master\Polynomial_Functions\obj\Debug\Polynomial_Functions.pdb
